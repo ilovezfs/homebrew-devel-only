@@ -4,8 +4,8 @@ class Hana < Formula
   head "https://github.com/boostorg/hana.git", :branch => "develop"
 
   devel do
-    url "https://github.com/boostorg/hana/archive/v0.5.0.tar.gz"
-    sha256 "4c712a0ea08c4142b682c2bd4603db0cd64de2634c2e2487d19c9e8e043ca966"
+    url "https://github.com/boostorg/hana/archive/v1.0.1.tar.gz"
+    sha256 "a422ef36e38598c5c9135fdb67d8049b5b96c70a3b7ea3839e5ec6cbcb6e4457"
   end
 
   depends_on "cmake" => :build
