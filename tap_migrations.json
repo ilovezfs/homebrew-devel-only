@@ -1,3 +1,4 @@
 {
+  "hana": "homebrew/core",
   "rebar3": "homebrew/versions"
 }
